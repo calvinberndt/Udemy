@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{3106EB04-5752-42A3-AFFC-8C8B8ACD0F31}|Default">
+  <MonoDevelop.Ide.ItemProperties.AddMaster.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AddMaster/MainPage.xaml">
+    <Files>
+      <File FileName="AddMaster/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="AddMaster/MainPage.xaml" Line="7" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AddMaster.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AddMaster FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
