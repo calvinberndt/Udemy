@@ -1,0 +1,5 @@
+/Users/calvinberndt/Desktop/Udemy/C#/ListArrayExercise/bin/Debug/ListArrayExercise.exe
+/Users/calvinberndt/Desktop/Udemy/C#/ListArrayExercise/bin/Debug/ListArrayExercise.pdb
+/Users/calvinberndt/Desktop/Udemy/C#/ListArrayExercise/obj/x86/Debug/ListArrayExercise.csproj.CoreCompileInputs.cache
+/Users/calvinberndt/Desktop/Udemy/C#/ListArrayExercise/obj/x86/Debug/ListArrayExercise.exe
+/Users/calvinberndt/Desktop/Udemy/C#/ListArrayExercise/obj/x86/Debug/ListArrayExercise.pdb

@@ -1,0 +1,6 @@
+/Users/calvinberndt/Desktop/Udemy/C#/Arrays/Arrays/bin/Debug/Arrays.exe
+/Users/calvinberndt/Desktop/Udemy/C#/Arrays/Arrays/bin/Debug/Arrays.pdb
+/Users/calvinberndt/Desktop/Udemy/C#/Arrays/Arrays/obj/x86/Debug/Arrays.csprojAssemblyReference.cache
+/Users/calvinberndt/Desktop/Udemy/C#/Arrays/Arrays/obj/x86/Debug/Arrays.csproj.CoreCompileInputs.cache
+/Users/calvinberndt/Desktop/Udemy/C#/Arrays/Arrays/obj/x86/Debug/Arrays.exe
+/Users/calvinberndt/Desktop/Udemy/C#/Arrays/Arrays/obj/x86/Debug/Arrays.pdb
